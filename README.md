@@ -1,3 +1,4 @@
+#WORLD QUANT UNIVERSITY PROJECT
 # Earthquake-Damage-Prediction
 # 🏚️ Nepal 2015 Earthquake Damage Prediction
 
